@@ -19,12 +19,11 @@ Time Trends: Monthly breakdown, total sales visualization, and daily average sal
 Visual Summaries: Pie charts for sales distribution, bar charts for sales comparison
 
 ## -Technologies
-Designed using Excel / Power BI / Tableau (modify as needed for your implementation)
+Designed using Excel / Power BI 
 Interactive charts and filters for deep-dive analytics
 
 ## -Usage
 Leverage this dashboard to:
 Track overall sales growth and identify monthly patterns
 Spot star and underperforming products or categories for inventory decisions
-
 Compare store performance and make data-driven decisions for future promotions
